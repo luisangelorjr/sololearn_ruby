@@ -16,4 +16,4 @@ number_a = gets.chomp
 puts "Insira outro número: "
 number_b = gets.chomp
 
-puts number_a.to_i + number_b.to_i 
+puts number_a.to_i + number_b.to_i
