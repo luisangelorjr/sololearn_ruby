@@ -50,4 +50,4 @@ build-iPhoneSimulator/
 .rvmrc
 
 # add .bk extension
-.bk
+*.bk
