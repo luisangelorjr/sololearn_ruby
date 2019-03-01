@@ -1,4 +1,4 @@
-# SoloLearn - [Ruby, ruby, ruby, ruby...](https://youtu.be/qObzgUfCl28?t=51)
+# SoloLearn - [Ruby, ruby, ruby, ruby...](https://www.myinstants.com/media/sounds/the_best_development_language.mp3)
 
 Repositório para refazer o curso do SoloLearn utilizando o uma variação do CodeKata de 
 modo ciclico (Terminei? Recomeço. Terminei? Recomeço. Terminei?...)
